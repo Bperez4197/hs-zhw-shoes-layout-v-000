@@ -264,6 +264,12 @@ iframe {
 		text-decoration: underline;
 	}
 
+	#features {
+		float: left;
+		padding: 1px;
+		margin: 1px;
+	}
+
 /********** Details **********/
 
 #details {

@@ -280,7 +280,7 @@ iframe {
 		width: 31.5%
 	}
 
-	#features #archive {
+	#features #archive .col1{
 		box-sizing: box-border;
 	}
 /********** Details **********/

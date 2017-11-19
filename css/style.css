@@ -278,6 +278,7 @@ iframe {
 		float: left;
 		margin: 1%;
 		width: 64.5%;
+		max-height: 100%
 	}
 
 	#archive {

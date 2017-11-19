@@ -269,6 +269,11 @@ iframe {
 		width: 31.333%
 	}
 
+	.col4 {
+		float: left;
+		width: 25%;
+	}
+
 	#features {
 		float: left;
 		margin: 1%;

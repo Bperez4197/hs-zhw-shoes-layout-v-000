@@ -292,7 +292,7 @@ iframe {
 		box-sizing: box-border;
 	}
 
-	ul {
+	h2+ul {
 		font-size: 1em;
 	}
 /********** Details **********/

@@ -267,13 +267,13 @@ iframe {
 	#features {
 		float: left;
 		margin: 5%;
-		width: 61.5%;
+		width: 56.5%;
 	}
 
 	#archive {
 		float: right;
 		margin: 5%;
-		width: 28.5%
+		width: 23.5%
 	}
 
 	#features #archive {

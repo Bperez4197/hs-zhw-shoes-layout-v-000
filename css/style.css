@@ -271,6 +271,12 @@ iframe {
 		width: 66.5%;
 	}
 
+	#archive {
+		float: right;
+		padding: 1px;
+		margin: 1px;
+		width: 33.5%
+	}
 /********** Details **********/
 
 #details {

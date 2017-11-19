@@ -291,6 +291,10 @@ iframe {
 	#features #archive .col1 .col4{
 		box-sizing: box-border;
 	}
+
+	ul {
+		font-size: 1em;
+	}
 /********** Details **********/
 
 #details {

@@ -266,15 +266,11 @@ iframe {
 
 	#features {
 		float: left;
-		padding: 1px;
-		margin: 1px;
 		width: 66.5%;
 	}
 
 	#archive {
-		float: left;
-		padding: 1px;
-		margin: 1px;
+		float: right;
 		width: 33.5%
 	}
 

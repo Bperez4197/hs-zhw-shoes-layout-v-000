@@ -283,7 +283,8 @@ iframe {
 	#archive {
 		float: right;
 		margin: 1%;
-		width: 31.5%
+		width: 31.5%;
+		max-height: 200px;
 	}
 
 	#features #archive .col1 .col4{

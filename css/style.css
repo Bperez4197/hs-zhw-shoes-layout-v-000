@@ -264,6 +264,10 @@ iframe {
 		text-decoration: underline;
 	}
 
+	.col1 {
+		width: 33.333%
+	}
+
 	#features {
 		float: left;
 		margin: 1%;

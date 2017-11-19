@@ -272,7 +272,7 @@ iframe {
 	}
 
 	#archive {
-		float: right;
+		float: left;
 		padding: 1px;
 		margin: 1px;
 		width: 33.5%
